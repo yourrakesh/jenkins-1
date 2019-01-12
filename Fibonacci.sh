@@ -1,17 +1,3 @@
-#!/bin/bash
-#!/bin/bash
-# SCRIPT:  fibo_iterative.sh
-# USAGE:   fibo_iterative.sh [Number]
-# PURPOSE: Generate Fibonacci sequence.
-#                         \\\\ ////
-#                         \\ - - //
-#                            @ @
-#                    ---oOOo-( )-oOOo---
-#
-#####################################################################
-#                     Script Starts Here                            #
-#####################################################################
-
 if [ $# -eq 1 ]
 then
     Num=$1
